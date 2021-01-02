@@ -1,3 +1,3 @@
 # RANDOM AND TAG BASED GIFS GENERATOR
 
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot1.png)
